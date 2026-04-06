@@ -1,6 +1,6 @@
 # Hi, I'm Harshit Singh Bhandari 👋
 
-**2nd Year Undergraduate @ IIT Bombay** (Industrial Engineering & Operations Research + DS&AI)  
+**2nd Year Undergraduate @ IIT Bombay**
 Building at the intersection of **AI agents, systems, and intelligence**.
 
 ### Currently Working On
@@ -9,4 +9,4 @@ Building at the intersection of **AI agents, systems, and intelligence**.
 
 ### Quick Links
 - Portfolio → [theharshitsingh.com](https://theharshitsingh.com)
-- Email → harshitsingh@iitb.ac.in
+- Email → dev@theharshitsingh.com
