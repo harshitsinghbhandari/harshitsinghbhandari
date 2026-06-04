@@ -1,6 +1,6 @@
 # Hi, I'm Harshit Singh Bhandari 👋
 
-**2nd Year Undergraduate @ IIT Bombay**
+**IIT Bombay**
 Building at the intersection of **AI agents, systems, and intelligence**.
 
 ### Currently Working On
