@@ -4,7 +4,7 @@
 Building at the intersection of **AI agents, systems, and intelligence**.
 
 ### Currently Working On
-- Contributing to **Composio Agent Orchestrator** (open-source agentic coding platform with 7k+ stars)
+- Contributing to **Agent Orchestrator** (open-source agentic coding platform with 7k+ stars)
 - **donna** - A Automation to turn your aggregated random thoughts into structured ideas. 
 
 
