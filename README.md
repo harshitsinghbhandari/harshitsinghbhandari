@@ -16,7 +16,7 @@ that let autonomous agents run reliably, without cloud dependency.
 
 - **Agent Orchestrator** &nbsp;release engineering, integration, the whole-system map
 - **Donna** &nbsp;local-first macOS assistant (voice, screen, memory)
-- **Aegis** &nbsp;biometric-secured macOS agent, won the Gemini Live Agent Challenge ($25K)
+- **Aegis** &nbsp;biometric-secured macOS agent, built for the Gemini Live Agent Challenge
 
 ### Links
 
