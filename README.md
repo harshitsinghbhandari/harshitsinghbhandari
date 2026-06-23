@@ -1,8 +1,7 @@
 # Harshit Singh Bhandari
 
 Release owner and migration lead on **Agent Orchestrator** (7.6k stars),
-an open-source orchestrator for parallel coding agents. I hold the publish
-token, lead the ground-up rewrite, and own end-to-end correctness.
+an open-source orchestrator for parallel coding agents. I lead the ground-up rewrite, and own end-to-end correctness.
 
 A million people build toy agents. Almost nobody is trusted to keep a
 popular one shipping and coherent. That is the work I do.
