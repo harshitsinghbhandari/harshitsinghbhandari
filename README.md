@@ -1,4 +1,4 @@
-# Hi, I'm Harshit Singh Bhandari 👋
+# Harshit Singh Bhandari
 
 **IIT Bombay**
 Building at the intersection of **AI agents, systems, and intelligence**.
