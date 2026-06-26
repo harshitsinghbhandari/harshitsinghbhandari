@@ -12,8 +12,6 @@ popular one shipping and coherent. That is the work I do.
 Local-first AI and the low-level execution environments and safety rails
 that let autonomous agents run reliably, without cloud dependency.
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-000000?style=flat-square&logo=swift&logoColor=F05138)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Go](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=00ADD8)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFD43B)
