@@ -22,7 +22,15 @@ that let autonomous agents run reliably, without cloud dependency.
 
 - **[Agent Orchestrator](https://github.com/harshitsinghbhandari/agent-orchestrator)** &nbsp;release engineering, integration, the whole-system map
 - **Donna** &nbsp;local-first macOS ambient assistant (watches screen + DMs, answers when asked)
-- **Aegis** &nbsp;biometric-secured macOS agent, built for the Gemini Live Agent Challenge
+- **[Aegis](https://github.com/harshitsinghbhandari/gemini-live-hackathon)** &nbsp;voice-controlled, biometric-secured macOS agent with 3-tier risk gating (Silent / Confirm / Biometric)
+
+### Also building
+
+- **[rmap](https://github.com/harshitsinghbhandari/rmap)** &nbsp;semantic repo map for coding agents: dependency-aware context in hundreds of tokens, not whole files
+- **[emagg](https://github.com/harshitsinghbhandari/emagg)** &nbsp;local-first aggregator that pulls every email account (Gmail, Zoho, IMAP) into one searchable inbox
+- **[iitb-agent](https://github.com/harshitsinghbhandari/iitb-agent)** &nbsp;local-first agent workspace for IIT Bombay portals over a shared CDP browser runtime
+- **[domain-expansion](https://github.com/harshitsinghbhandari/domain-expansion)** &nbsp;installable Claude agent skills (code audits, LLM councils, PR review) via `npx skills add`
+- **[mdview](https://github.com/harshitsinghbhandari/local-markdown-file-renderer)** &nbsp;CLI daemon that renders local Markdown in the browser, published on npm and Homebrew
 
 ### Links
 
