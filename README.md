@@ -1,6 +1,6 @@
 # Harshit Singh Bhandari
 
-Release owner and migration lead on **[Agent Orchestrator](https://github.com/harshitsinghbhandari/agent-orchestrator)** (7.6k stars),
+Release owner and migration lead on **[Agent Orchestrator](https://github.com/harshitsinghbhandari/agent-orchestrator)** (8000+ stars),
 an open-source orchestrator for parallel coding agents.
 
 A million people build toy agents. Almost nobody is trusted to keep a
