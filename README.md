@@ -34,7 +34,7 @@ that let autonomous agents run reliably, without cloud dependency.
 ### Links
 
 - Site &nbsp;[theharshitsingh.com](https://theharshitsingh.com)
-- X &nbsp;[@HSBhandari955](https://x.com/HSBhandari955)
+- X &nbsp;[@the_hsbhandari](https://x.com/the_hsbhandari)
 - Email &nbsp;dev@theharshitsingh.com
 
 ---
