@@ -1,15 +1,17 @@
 # Harshit Singh Bhandari
 
-Release owner and migration lead on **[Agent Orchestrator](https://github.com/harshitsinghbhandari/agent-orchestrator)** (8000+ stars),
+Release owner and migration lead on **[Agent Orchestrator](https://github.com/AgentWrapper/agent-orchestrator)** (8,000+ stars),
 an open-source orchestrator for parallel coding agents.
 
 A million people build toy agents. Almost nobody is trusted to keep a
 popular one shipping and coherent. That is the work I do.
 
-### Focus
+### The bet
 
-Local-first AI and the low-level execution environments and safety rails
-that let autonomous agents run reliably, without cloud dependency.
+Software should be personal. The best software is forward-deployed to a
+user of one: the user's opinions shape the UX, an engineer's opinions
+shape the internals. I build the low-level execution environments and
+safety rails that let autonomous agents run reliably.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Go](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=00ADD8)
@@ -19,15 +21,15 @@ that let autonomous agents run reliably, without cloud dependency.
 
 ### Building
 
-- **[Agent Orchestrator](https://github.com/harshitsinghbhandari/agent-orchestrator)** &nbsp;release engineering, integration, the whole-system map
-- **Donna** &nbsp;local-first macOS ambient assistant (watches screen + DMs, answers when asked)
+- **[Agent Orchestrator](https://github.com/AgentWrapper/agent-orchestrator)** &nbsp;release engineering, integration, the whole-system map
+- **Donna** &nbsp;macOS ambient assistant (watches screen + DMs on-device, answers when asked)
 - **[Aegis](https://github.com/harshitsinghbhandari/gemini-live-hackathon)** &nbsp;voice-controlled, biometric-secured macOS agent with 3-tier risk gating (Silent / Confirm / Biometric)
 
 ### Also building
 
 - **[rmap](https://github.com/harshitsinghbhandari/rmap)** &nbsp;semantic repo map for coding agents: dependency-aware context in hundreds of tokens, not whole files
-- **[emagg](https://github.com/harshitsinghbhandari/emagg)** &nbsp;local-first aggregator that pulls every email account (Gmail, Zoho, IMAP) into one searchable inbox
-- **[iitb-agent](https://github.com/harshitsinghbhandari/iitb-agent)** &nbsp;local-first agent workspace for IIT Bombay portals over a shared CDP browser runtime
+- **[emagg](https://github.com/harshitsinghbhandari/emagg)** &nbsp;pulls every email account (Gmail, Zoho, IMAP) into one searchable inbox on your machine
+- **[iitb-agent](https://github.com/harshitsinghbhandari/iitb-agent)** &nbsp;agent workspace for IIT Bombay portals over a shared CDP browser runtime
 - **[domain-expansion](https://github.com/harshitsinghbhandari/domain-expansion)** &nbsp;installable Claude agent skills (code audits, LLM councils, PR review) via `npx skills add`
 - **[mdview](https://github.com/harshitsinghbhandari/local-markdown-file-renderer)** &nbsp;CLI daemon that renders local Markdown in the browser, published on npm and Homebrew
 
