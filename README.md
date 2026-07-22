@@ -3,8 +3,8 @@
 Release owner and migration lead on **[Agent Orchestrator](https://github.com/AgentWrapper/agent-orchestrator)** (8,000+ stars),
 an open-source orchestrator for parallel coding agents.
 
-A million people build toy agents. Almost nobody is trusted to keep a
-popular one shipping and coherent. That is the work I do.
+I make things that are opinionated but open to personalization.
+I make things that make my life easier in the way I want it. 
 
 ### The bet
 
@@ -22,16 +22,12 @@ safety rails that let autonomous agents run reliably.
 ### Building
 
 - **[Agent Orchestrator](https://github.com/AgentWrapper/agent-orchestrator)** &nbsp;release engineering, integration, the whole-system map
-- **Donna** &nbsp;macOS ambient assistant (watches screen + DMs on-device, answers when asked)
-- **[Aegis](https://github.com/harshitsinghbhandari/gemini-live-hackathon)** &nbsp;voice-controlled, biometric-secured macOS agent with 3-tier risk gating (Silent / Confirm / Biometric)
+- **[AgentLab in](https://github.com/agentlab-in/)** &nbsp; A place for all AI Agents tools, skills, apps I build and use or will use.
 
 ### Also building
 
-- **[rmap](https://github.com/harshitsinghbhandari/rmap)** &nbsp;semantic repo map for coding agents: dependency-aware context in hundreds of tokens, not whole files
 - **[emagg](https://github.com/harshitsinghbhandari/emagg)** &nbsp;pulls every email account (Gmail, Zoho, IMAP) into one searchable inbox on your machine
-- **[iitb-agent](https://github.com/harshitsinghbhandari/iitb-agent)** &nbsp;agent workspace for IIT Bombay portals over a shared CDP browser runtime
 - **[domain-expansion](https://github.com/harshitsinghbhandari/domain-expansion)** &nbsp;installable Claude agent skills (code audits, LLM councils, PR review) via `npx skills add`
-- **[mdview](https://github.com/harshitsinghbhandari/local-markdown-file-renderer)** &nbsp;CLI daemon that renders local Markdown in the browser, published on npm and Homebrew
 
 ### Links
 
