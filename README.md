@@ -3,7 +3,7 @@
 I make things that are opinionated but open to personalization.
 I make things that make my life easier in the way I want it.
 
-Release owner and migration lead on **[Agent Orchestrator](https://github.com/AgentWrapper/agent-orchestrator)** (8,000+ stars),
+Core Contributor **[Agent Orchestrator](https://github.com/AgentWrapper/agent-orchestrator)** (10,000+ stars),
 an open-source orchestrator for parallel coding agents.
 
 ### The bet
