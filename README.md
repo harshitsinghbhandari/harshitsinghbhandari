@@ -19,6 +19,6 @@ shape the internals.
 
 ### Links
 
-- Site &nbsp;[theharshitsingh.com](https://theharshitsingh.com)
+- Site &nbsp;[hsbhandari.com](https://hsbhandari.com)
 - X &nbsp;[@the_hsbhandari](https://x.com/the_hsbhandari)
 - Email &nbsp;harshit@hsbhandari.com
